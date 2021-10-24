@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 097a5afcd962f6d48b5082e2c5dff322
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2008459624585390516
+    second: GameJamKopek-2-Animasyonlu(1)_0
+  - first:
+      213: 8788792519788251187
+    second: GameJamKopek-2-Animasyonlu(1)_1
+  - first:
+      213: 4784868227757784599
+    second: GameJamKopek-2-Animasyonlu(1)_2
+  - first:
+      213: -4975032378321940873
+    second: GameJamKopek-2-Animasyonlu(1)_3
+  - first:
+      213: 3232350874915453074
+    second: GameJamKopek-2-Animasyonlu(1)_4
+  - first:
+      213: -5529476828668613484
+    second: GameJamKopek-2-Animasyonlu(1)_5
+  - first:
+      213: 4186930229940930618
+    second: GameJamKopek-2-Animasyonlu(1)_6
+  - first:
+      213: -4587308764609185828
+    second: GameJamKopek-2-Animasyonlu(1)_7
+  - first:
+      213: -6106610249978523635
+    second: GameJamKopek-2-Animasyonlu(1)_8
+  - first:
+      213: -4224013852827957101
+    second: GameJamKopek-2-Animasyonlu(1)_9
+  - first:
+      213: 418739735397965656
+    second: GameJamKopek-2-Animasyonlu(1)_10
+  - first:
+      213: -2095548185483811904
+    second: GameJamKopek-2-Animasyonlu(1)_11
+  - first:
+      213: 4848316788087423576
+    second: GameJamKopek-2-Animasyonlu(1)_12
+  - first:
+      213: -4735699095213707432
+    second: GameJamKopek-2-Animasyonlu(1)_13
+  - first:
+      213: -8124732778337096699
+    second: GameJamKopek-2-Animasyonlu(1)_14
+  - first:
+      213: -9111581953547501837
+    second: GameJamKopek-2-Animasyonlu(1)_0
+  - first:
+      213: -2002477267416914199
+    second: GameJamKopek-2-Animasyonlu(1)_1
+  - first:
+      213: -636569203791939542
+    second: GameJamKopek-2-Animasyonlu(1)_2
+  - first:
+      213: -7761498172898343079
+    second: GameJamKopek-2-Animasyonlu(1)_3
+  - first:
+      213: 6037903091648022022
+    second: GameJamKopek-2-Animasyonlu(1)_4
+  - first:
+      213: -2190545064138513770
+    second: GameJamKopek-2-Animasyonlu(1)_5
+  - first:
+      213: 1888261191364974154
+    second: GameJamKopek-2-Animasyonlu(1)_6
+  - first:
+      213: 5165542437376027896
+    second: GameJamKopek-2-Animasyonlu(1)_7
+  - first:
+      213: -294745393251161841
+    second: GameJamKopek-2-Animasyonlu(1)_8
+  - first:
+      213: 8694609533372070093
+    second: GameJamKopek-2-Animasyonlu(1)_9
+  - first:
+      213: 4899278393111976846
+    second: GameJamKopek-2-Animasyonlu(1)_10
+  - first:
+      213: -2876253641043216022
+    second: GameJamKopek-2-Animasyonlu(1)_11
+  - first:
+      213: -5234296801195065682
+    second: GameJamKopek-2-Animasyonlu(1)_12
+  - first:
+      213: 1303356251002435679
+    second: GameJamKopek-2-Animasyonlu(1)_13
+  - first:
+      213: 2506604194241213507
+    second: GameJamKopek-2-Animasyonlu(1)_14
+  - first:
+      213: -1962073807114314111
+    second: GameJamKopek-2-Animasyonlu(1)_15
+  - first:
+      213: -5729356606405616136
+    second: GameJamKopek-2-Animasyonlu(1)_16
+  - first:
+      213: 7346031194067962522
+    second: GameJamKopek-2-Animasyonlu(1)_17
+  - first:
+      213: 7078127897466373363
+    second: GameJamKopek-2-Animasyonlu(1)_18
+  - first:
+      213: 7788226117974905641
+    second: GameJamKopek-2-Animasyonlu(1)_19
+  - first:
+      213: 8492787902653618824
+    second: GameJamKopek-2-Animasyonlu(1)_20
+  - first:
+      213: 5984609122822633909
+    second: GameJamKopek-2-Animasyonlu(1)_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameJamKopek-2-Animasyonlu(1)_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 296
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96025236b7fdb10800000000000000
+      internalID: 2008459624585390516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJamKopek-2-Animasyonlu(1)_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 296
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c6925b3018f970800000000000000
+      internalID: 8788792519788251187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJamKopek-2-Animasyonlu(1)_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 296
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ecd08296225fab0800000000000000
+      internalID: -4975032378321940873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJamKopek-2-Animasyonlu(1)_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 179
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2479ee1a5343b0800000000000000
+      internalID: -5529476828668613484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJamKopek-2-Animasyonlu(1)_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 168
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7fe62bbfa9650c0800000000000000
+      internalID: -4587308764609185828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJamKopek-2-Animasyonlu(1)_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 168
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3984cd7d7c94165c0800000000000000
+      internalID: -4224013852827957101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJamKopek-2-Animasyonlu(1)_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e58a270e1be2e0800000000000000
+      internalID: -2095548185483811904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJamKopek-2-Animasyonlu(1)_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 40
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe5a283ca674eb0800000000000000
+      internalID: -4735699095213707432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
